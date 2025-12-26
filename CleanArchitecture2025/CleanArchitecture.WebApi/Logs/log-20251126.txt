@@ -1,0 +1,14 @@
+2025-11-26 15:36:32.333 +03:00 [INF] User profile is available. Using 'C:\Users\EXCALIBUR\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-11-26 15:36:33.435 +03:00 [INF] Now listening on: https://localhost:7181
+2025-11-26 15:36:33.488 +03:00 [INF] Now listening on: http://localhost:5140
+2025-11-26 15:36:34.938 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-11-26 15:36:34.941 +03:00 [INF] Hosting environment: Development
+2025-11-26 15:36:34.945 +03:00 [INF] Content root path: C:\Users\EXCALIBUR\Desktop\Forum Kırıkkale\CleanArchitecture2025\CleanArchitecture.WebApi
+2025-11-26 15:36:35.490 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7181/swagger/index.html - null null
+2025-11-26 15:36:36.116 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7181/_framework/aspnetcore-browser-refresh.js - null null
+2025-11-26 15:36:36.117 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7181/swagger/index.html - 200 null text/html;charset=utf-8 630.0291ms
+2025-11-26 15:36:36.119 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7181/_vs/browserLink - null null
+2025-11-26 15:36:36.176 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7181/_framework/aspnetcore-browser-refresh.js - 200 16533 application/javascript; charset=utf-8 59.9594ms
+2025-11-26 15:36:36.349 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7181/_vs/browserLink - 200 null text/javascript; charset=UTF-8 229.872ms
+2025-11-26 15:36:36.787 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7181/swagger/v1/swagger.json - null null
+2025-11-26 15:36:36.840 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7181/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 52.5947ms

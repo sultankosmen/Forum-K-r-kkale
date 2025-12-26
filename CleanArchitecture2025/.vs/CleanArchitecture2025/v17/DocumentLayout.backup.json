@@ -1,0 +1,1218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.webapi\\configurations\\infrastructureserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\configurations\\infrastructureserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.webapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.persistance\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8B34E1-E063-4CE2-9B0D-4E14B6F6045F}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.infrastructure\\authenticaton\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8B34E1-E063-4CE2-9B0D-4E14B6F6045F}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\authenticaton\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.persistance\\repositories\\unitofwork .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\repositories\\unitofwork .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.persistance\\repositories\\userrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\repositories\\userrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.persistance\\configurations\\entryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\configurations\\entryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.domain\\repositories\\iuserrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\repositories\\iuserrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.domain\\entities\\entryfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\entities\\entryfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.domain\\entities\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\entities\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.application\\features\\authfeatures\\commands\\createnewtokenbyrefreshtoken\\createnewtokenbyrefreshtokencommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\authfeatures\\commands\\createnewtokenbyrefreshtoken\\createnewtokenbyrefreshtokencommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.application\\features\\authfeatures\\commands\\createnewtokenbyrefreshtoken\\createnewtokenbyrefreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\authfeatures\\commands\\createnewtokenbyrefreshtoken\\createnewtokenbyrefreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.application\\features\\authfeatures\\commands\\createnewtokenbyrefreshtoken\\createnewtokenbyrefreshtokencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\authfeatures\\commands\\createnewtokenbyrefreshtoken\\createnewtokenbyrefreshtokencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.application\\features\\authfeatures\\commands\\login\\logincommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\authfeatures\\commands\\login\\logincommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.application\\features\\authfeatures\\commands\\login\\logiccommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\authfeatures\\commands\\login\\logiccommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.application\\features\\authfeatures\\commands\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\authfeatures\\commands\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.application\\abstractions\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\abstractions\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.application\\features\\entryfeatures\\commands\\deleteentry\\deleteentrycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\entryfeatures\\commands\\deleteentry\\deleteentrycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.webapi\\configurations\\persistancediserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\configurations\\persistancediserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.persistance\\repositories\\entryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\repositories\\entryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.persistance\\cleanarchitecture.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\cleanarchitecture.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Migrations\\20251223103349_EntryFavoriteSoftDelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecture.Persistance\\Migrations\\20251223103349_EntryFavoriteSoftDelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Migrations\\20251223103104_EntrySoftDelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecture.Persistance\\Migrations\\20251223103104_EntrySoftDelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8B34E1-E063-4CE2-9B0D-4E14B6F6045F}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.infrastructure\\authorization\\roleauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8B34E1-E063-4CE2-9B0D-4E14B6F6045F}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\authorization\\roleauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.domain\\cleanarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\cleanarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.domain\\entities\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\entities\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8B34E1-E063-4CE2-9B0D-4E14B6F6045F}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.infrastructure\\authorization\\rolefilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8B34E1-E063-4CE2-9B0D-4E14B6F6045F}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\authorization\\rolefilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.webapi\\optionssetup\\optionssetup\\jwtoptionssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\optionssetup\\optionssetup\\jwtoptionssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.webapi\\optionssetup\\optionssetup\\jwtbeareroptionssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\optionssetup\\optionssetup\\jwtbeareroptionssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.webapi\\middleware\\middlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\middleware\\middlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.webapi\\configurations\\presentationserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\configurations\\presentationserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.webapi\\configurations\\persistanceserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\configurations\\persistanceserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.webapi\\configurations\\iserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\configurations\\iserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.webapi\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.webapi\\configurations\\authorizeserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\configurations\\authorizeserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.webapi\\configurations\\applicationserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\configurations\\applicationserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A7D432-0DDC-410E-9486-0D09CCCA42EF}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A7D432-0DDC-410E-9486-0D09CCCA42EF}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A7D432-0DDC-410E-9486-0D09CCCA42EF}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.presentation\\controllers\\rolescontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A7D432-0DDC-410E-9486-0D09CCCA42EF}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\controllers\\rolescontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A7D432-0DDC-410E-9486-0D09CCCA42EF}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A7D432-0DDC-410E-9486-0D09CCCA42EF}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A7D432-0DDC-410E-9486-0D09CCCA42EF}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.presentation\\abstraction\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A7D432-0DDC-410E-9486-0D09CCCA42EF}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\abstraction\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.persistance\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.persistance\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.persistance\\configurations\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\configurations\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.persistance\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.persistance\\configurations\\topicconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\configurations\\topicconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.persistance\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.persistance\\configurations\\entryfavoriteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\configurations\\entryfavoriteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8B34E1-E063-4CE2-9B0D-4E14B6F6045F}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.infrastructure\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8B34E1-E063-4CE2-9B0D-4E14B6F6045F}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8B34E1-E063-4CE2-9B0D-4E14B6F6045F}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.infrastructure\\authenticaton\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8B34E1-E063-4CE2-9B0D-4E14B6F6045F}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\authenticaton\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.domain\\entities\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\entities\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.domain\\dtos\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693E1AA4-B12A-41C2-9C14-140DD15082FD}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\dtos\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.application\\services\\iuserroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\iuserroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.application\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.application\\services\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.application\\features\\userrolefeatures\\commands\\createuserrole\\createuserrolecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5668817A-346E-4A98-9C22-6EEAD2D5D778}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\userrolefeatures\\commands\\createuserrole\\createuserrolecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8B34E1-E063-4CE2-9B0D-4E14B6F6045F}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.infrastructure\\cleanarchitecture.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B8B34E1-E063-4CE2-9B0D-4E14B6F6045F}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\cleanarchitecture.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A7D432-0DDC-410E-9486-0D09CCCA42EF}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.presentation\\cleanarchitecture.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9A7D432-0DDC-410E-9486-0D09CCCA42EF}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\cleanarchitecture.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.webapi\\cleanarchitecture.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE3E9AAA-FED8-4DDE-8586-981702A5A925}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\cleanarchitecture.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC80F682-3D55-C8F8-4895-A4A9EDD49434}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{AC80F682-3D55-C8F8-4895-A4A9EDD49434}|C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC80F682-3D55-C8F8-4895-A4A9EDD49434}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{AC80F682-3D55-C8F8-4895-A4A9EDD49434}|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\excalibur\\desktop\\forum k\u0131r\u0131kkale\\cleanarchitecture2025\\cleanarchitecture.persistance\\migrations\\20251215163319_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC8F779-10E1-43E8-873E-A660C377EE3F}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\migrations\\20251215163319_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Configurations\\EntryConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Configurations\\EntryConfiguration.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Configurations\\EntryConfiguration.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Configurations\\EntryConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:05:35.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Repositories\\UserRoleRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Repositories\\UserRoleRepository.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Repositories\\UserRoleRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Repositories\\UserRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:26:39.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWork .cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Repositories\\UnitOfWork .cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Repositories\\UnitOfWork .cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Repositories\\UnitOfWork .cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Repositories\\UnitOfWork .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:26:24.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Infrastructure\\Authenticaton\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Authenticaton\\JwtProvider.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Infrastructure\\Authenticaton\\JwtProvider.cs",
+              "RelativeToolTip": "CleanArchitecture.Infrastructure\\Authenticaton\\JwtProvider.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:01:13.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Services\\AuthService.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Services\\AuthService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:01:25.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:31:08.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InfrastructureServiceInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Configurations\\InfrastructureServiceInstaller.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\InfrastructureServiceInstaller.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Configurations\\InfrastructureServiceInstaller.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\InfrastructureServiceInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:17:32.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T08:48:37.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Repositories\\IUserRoleRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Repositories\\IUserRoleRepository.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Repositories\\IUserRoleRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Repositories\\IUserRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:02:21.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:48:16.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T08:29:48.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntryFavorite.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Entities\\EntryFavorite.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Entities\\EntryFavorite.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Entities\\EntryFavorite.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Entities\\EntryFavorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:54:16.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Abstractions\\Entity.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Abstractions\\Entity.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Abstractions\\Entity.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Abstractions\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:23:30.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Entry.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Entities\\Entry.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Entities\\Entry.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Entities\\Entry.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Entities\\Entry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:46:58.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateNewTokenByRefreshTokenCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommandValidator.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommandValidator.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommandValidator.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:46:57.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateNewTokenByRefreshTokenCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommandHandler.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommandHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:48:42.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateNewTokenByRefreshTokenCommand.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommand.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommand.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommand.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\CreateNewTokenByRefreshToken\\CreateNewTokenByRefreshTokenCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:45:02.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Login\\LoginCommandValidator.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Login\\LoginCommandValidator.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Login\\LoginCommandValidator.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Login\\LoginCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:44:02.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Login\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Login\\LoginCommand.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Login\\LoginCommand.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Login\\LoginCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:41:23.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Abstractions\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Abstractions\\IJwtProvider.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Abstractions\\IJwtProvider.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Abstractions\\IJwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:39:24.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteEntryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Features\\EntryFeatures\\Commands\\DeleteEntry\\DeleteEntryCommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\EntryFeatures\\Commands\\DeleteEntry\\DeleteEntryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Features\\EntryFeatures\\Commands\\DeleteEntry\\DeleteEntryCommandHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\EntryFeatures\\Commands\\DeleteEntry\\DeleteEntryCommandHandler.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwDMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:39:06.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CleanArchitecture.Persistance.csproj",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-15T15:23:25.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LogicCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Login\\LogicCommandResponse.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Login\\LogicCommandResponse.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Login\\LogicCommandResponse.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Login\\LogicCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:19:02.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EntryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Repositories\\EntryRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Repositories\\EntryRepository.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Repositories\\EntryRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Repositories\\EntryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:52:31.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PersistanceDIServiceInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Configurations\\PersistanceDIServiceInstaller.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\PersistanceDIServiceInstaller.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Configurations\\PersistanceDIServiceInstaller.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\PersistanceDIServiceInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:29:38.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20251223103349_EntryFavoriteSoftDelete.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Migrations\\20251223103349_EntryFavoriteSoftDelete.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Migrations\\20251223103349_EntryFavoriteSoftDelete.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Migrations\\20251223103349_EntryFavoriteSoftDelete.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Migrations\\20251223103349_EntryFavoriteSoftDelete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:33:49.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20251223103104_EntrySoftDelete.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Migrations\\20251223103104_EntrySoftDelete.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Migrations\\20251223103104_EntrySoftDelete.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Migrations\\20251223103104_EntrySoftDelete.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Migrations\\20251223103104_EntrySoftDelete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:31:04.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:22:23.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ErrorLog.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Entities\\ErrorLog.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Entities\\ErrorLog.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Entities\\ErrorLog.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Entities\\ErrorLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:48:27.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoleAuthorizationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Infrastructure\\Authorization\\RoleAuthorizationFilter.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Authorization\\RoleAuthorizationFilter.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Infrastructure\\Authorization\\RoleAuthorizationFilter.cs",
+              "RelativeToolTip": "CleanArchitecture.Infrastructure\\Authorization\\RoleAuthorizationFilter.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAewCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:09:47.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CleanArchitecture.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+              "RelativeToolTip": "CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-15T16:30:25.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RoleFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Infrastructure\\Authorization\\RoleFilterAttribute.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Authorization\\RoleFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Infrastructure\\Authorization\\RoleFilterAttribute.cs",
+              "RelativeToolTip": "CleanArchitecture.Infrastructure\\Authorization\\RoleFilterAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:01:06.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\appsettings.json",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T10:07:20.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MiddlewareExtension.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Middleware\\MiddlewareExtension.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Middleware\\MiddlewareExtension.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Middleware\\MiddlewareExtension.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Middleware\\MiddlewareExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:17:38.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PresentationServiceInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Configurations\\PresentationServiceInstaller.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\PresentationServiceInstaller.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Configurations\\PresentationServiceInstaller.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\PresentationServiceInstaller.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:17:43.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "JwtBearerOptionsSetup.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\OptionsSetup\\OptionsSetup\\JwtBearerOptionsSetup.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\OptionsSetup\\OptionsSetup\\JwtBearerOptionsSetup.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\OptionsSetup\\OptionsSetup\\JwtBearerOptionsSetup.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\OptionsSetup\\OptionsSetup\\JwtBearerOptionsSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:08:08.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "JwtOptionsSetup.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\OptionsSetup\\OptionsSetup\\JwtOptionsSetup.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\OptionsSetup\\OptionsSetup\\JwtOptionsSetup.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\OptionsSetup\\OptionsSetup\\JwtOptionsSetup.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\OptionsSetup\\OptionsSetup\\JwtOptionsSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:08:12.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PersistanceServiceInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Configurations\\PersistanceServiceInstaller.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\PersistanceServiceInstaller.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Configurations\\PersistanceServiceInstaller.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\PersistanceServiceInstaller.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:31:20.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IServiceInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Configurations\\IServiceInstaller.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\IServiceInstaller.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Configurations\\IServiceInstaller.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\IServiceInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:17:17.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Configurations\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Configurations\\DependencyInjection.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:17:30.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AuthorizeServiceInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Configurations\\AuthorizeServiceInstaller.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\AuthorizeServiceInstaller.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Configurations\\AuthorizeServiceInstaller.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\AuthorizeServiceInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:16:38.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ApplicationServiceInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Configurations\\ApplicationServiceInstaller.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\ApplicationServiceInstaller.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Configurations\\ApplicationServiceInstaller.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\ApplicationServiceInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:17:28.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Presentation\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Presentation\\AssemblyReference.cs",
+              "RelativeToolTip": "CleanArchitecture.Presentation\\AssemblyReference.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:17:07.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RolesControllers.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Presentation\\Controllers\\RolesControllers.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Controllers\\RolesControllers.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Presentation\\Controllers\\RolesControllers.cs",
+              "RelativeToolTip": "CleanArchitecture.Presentation\\Controllers\\RolesControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:10:40.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T08:43:33.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Presentation\\Abstraction\\ApiController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Abstraction\\ApiController.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Presentation\\Abstraction\\ApiController.cs",
+              "RelativeToolTip": "CleanArchitecture.Presentation\\Abstraction\\ApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:07:11.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Services\\RoleService.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Services\\RoleService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:01:44.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T11:59:59.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserRoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Configurations\\UserRoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Configurations\\UserRoleConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:03:55.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:02:16.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TopicConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Configurations\\TopicConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Configurations\\TopicConfiguration.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Configurations\\TopicConfiguration.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Configurations\\TopicConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:05:01.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Configurations\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Configurations\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Configurations\\RoleConfiguration.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Configurations\\RoleConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADgvxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:03:15.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EntryFavoriteConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Configurations\\EntryFavoriteConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Configurations\\EntryFavoriteConfiguration.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Configurations\\EntryFavoriteConfiguration.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Configurations\\EntryFavoriteConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:07:19.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Infrastructure\\Services\\MailService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Services\\MailService.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Infrastructure\\Services\\MailService.cs",
+              "RelativeToolTip": "CleanArchitecture.Infrastructure\\Services\\MailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T08:35:01.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Infrastructure\\Authenticaton\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Authenticaton\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Infrastructure\\Authenticaton\\JwtOptions.cs",
+              "RelativeToolTip": "CleanArchitecture.Infrastructure\\Authenticaton\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:01:11.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Entities\\UserRole.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:45:15.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Entities\\Topic.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Entities\\Topic.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Entities\\Topic.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Entities\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:46:14.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MessageResponse.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Dtos\\MessageResponse.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Dtos\\MessageResponse.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Domain\\Dtos\\MessageResponse.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Dtos\\MessageResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:03:10.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IUserRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Services\\IUserRoleService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\IUserRoleService.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Services\\IUserRoleService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Services\\IUserRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:10:09.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Services\\IRoleService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Services\\IRoleService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Services\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:10:00.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Services\\IMailService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\IMailService.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Services\\IMailService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Services\\IMailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:09:52.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Services\\IAuthService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T08:30:03.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CreateUserRoleCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandValidator.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandValidator.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandValidator.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:49:48.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\Program.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:07:47.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20251215163319_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Migrations\\20251215163319_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Migrations\\20251215163319_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Persistance\\Migrations\\20251215163319_InitialCreate.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Migrations\\20251215163319_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T16:33:20.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CleanArchitecture.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+              "RelativeToolTip": "CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-15T16:26:01.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CleanArchitecture.Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj",
+              "RelativeToolTip": "CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-15T16:29:09.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CleanArchitecture.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-15T16:18:54.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "global.json",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\Forum K\u0131r\u0131kkale\\CleanArchitecture2025\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T16:09:02.711Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

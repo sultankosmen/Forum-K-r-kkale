@@ -1,0 +1,74 @@
+2025-12-23 13:31:02.803 +03:00 [WRN] Entity 'Entry' has a global query filter defined and is the required end of a relationship with the entity 'EntryFavorite'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2025-12-23 13:31:03.219 +03:00 [WRN] Entity 'Entry' has a global query filter defined and is the required end of a relationship with the entity 'EntryFavorite'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2025-12-23 13:31:36.533 +03:00 [WRN] Entity 'Entry' has a global query filter defined and is the required end of a relationship with the entity 'EntryFavorite'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2025-12-23 13:31:37.033 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-12-23 13:31:37.076 +03:00 [INF] Executed DbCommand (27ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-12-23 13:31:37.080 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-12-23 13:31:37.083 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-12-23 13:31:37.131 +03:00 [INF] Executed DbCommand (16ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-12-23 13:31:37.170 +03:00 [INF] Applying migration '20251223103104_EntrySoftDelete'.
+2025-12-23 13:31:37.340 +03:00 [INF] Executed DbCommand (70ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE [Entries] ADD [DeletedAt] datetime2 NULL;
+2025-12-23 13:31:37.355 +03:00 [INF] Executed DbCommand (14ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE [Entries] ADD [IsDeleted] bit NOT NULL DEFAULT CAST(0 AS bit);
+2025-12-23 13:31:37.381 +03:00 [INF] Executed DbCommand (26ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20251223103104_EntrySoftDelete', N'8.0.0');
+2025-12-23 13:33:48.451 +03:00 [WRN] Entity 'Entry' has a global query filter defined and is the required end of a relationship with the entity 'EntryFavorite'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2025-12-23 13:33:48.863 +03:00 [WRN] Entity 'Entry' has a global query filter defined and is the required end of a relationship with the entity 'EntryFavorite'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2025-12-23 13:33:57.177 +03:00 [WRN] Entity 'Entry' has a global query filter defined and is the required end of a relationship with the entity 'EntryFavorite'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2025-12-23 13:33:57.602 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-12-23 13:33:57.636 +03:00 [INF] Executed DbCommand (21ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-12-23 13:33:57.640 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-12-23 13:33:57.642 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-12-23 13:33:57.676 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-12-23 13:33:57.709 +03:00 [INF] Applying migration '20251223103349_EntryFavoriteSoftDelete'.
+2025-12-23 13:33:57.827 +03:00 [INF] Executed DbCommand (16ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE [EntryFavorites] ADD [DeletedAt] datetime2 NULL;
+2025-12-23 13:33:57.833 +03:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE [EntryFavorites] ADD [IsDeleted] bit NOT NULL DEFAULT CAST(0 AS bit);
+2025-12-23 13:33:57.837 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20251223103349_EntryFavoriteSoftDelete', N'8.0.0');
+2025-12-23 13:59:23.654 +03:00 [INF] User profile is available. Using 'C:\Users\EXCALIBUR\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-23 13:59:24.324 +03:00 [INF] Now listening on: https://localhost:7181
+2025-12-23 13:59:24.329 +03:00 [INF] Now listening on: http://localhost:5140
+2025-12-23 13:59:24.440 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-23 13:59:24.444 +03:00 [INF] Hosting environment: Development
+2025-12-23 13:59:24.448 +03:00 [INF] Content root path: C:\Users\EXCALIBUR\Desktop\Forum Kırıkkale\CleanArchitecture2025\CleanArchitecture.WebApi
+2025-12-23 13:59:26.694 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7181/swagger - null null
+2025-12-23 13:59:27.091 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7181/swagger - 301 0 null 400.8458ms
+2025-12-23 13:59:27.103 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7181/swagger/index.html - null null
+2025-12-23 13:59:27.293 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7181/swagger/index.html - 200 null text/html;charset=utf-8 190.252ms
+2025-12-23 13:59:27.310 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7181/swagger/swagger-ui-standalone-preset.js - null null
+2025-12-23 13:59:27.310 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7181/swagger/swagger-ui-bundle.js - null null
+2025-12-23 13:59:27.310 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7181/swagger/swagger-ui.css - null null
+2025-12-23 13:59:27.380 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-12-23 13:59:27.380 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-12-23 13:59:27.395 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7181/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-23 13:59:27.398 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7181/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 87.7756ms
+2025-12-23 13:59:27.386 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7181/swagger/swagger-ui.css - 200 152034 text/css 75.9946ms
+2025-12-23 13:59:27.426 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7181/_framework/aspnetcore-browser-refresh.js - 200 13784 application/javascript; charset=utf-8 30.3742ms
+2025-12-23 13:59:27.407 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7181/_vs/browserLink - null null
+2025-12-23 13:59:27.453 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-12-23 13:59:27.457 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7181/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 147.2871ms
+2025-12-23 13:59:27.611 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7181/_vs/browserLink - 200 null text/javascript; charset=UTF-8 204.7035ms
+2025-12-23 13:59:27.860 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7181/swagger/v1/swagger.json - null null
+2025-12-23 13:59:27.890 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7181/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 30.7406ms
+2025-12-23 13:59:27.921 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7181/swagger/favicon-32x32.png - null null
+2025-12-23 13:59:27.933 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-12-23 13:59:27.937 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7181/swagger/favicon-32x32.png - 200 628 image/png 18.292ms
