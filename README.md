@@ -11,6 +11,7 @@ Bu yapı sayesinde uygulama; sürdürülebilir, test edilebilir ve ölçeklenebi
 
 * **ASP.NET Core** – Backend geliştirme
 * **C#** – Ana programlama dili
+* **Angular** – Frontend geliştirme
 * **Clean Architecture** – Katmanlı mimari yaklaşımı
 * **Entity Framework Core** – ORM aracı
 * **SQL Server** – Veritabanı yönetimi
