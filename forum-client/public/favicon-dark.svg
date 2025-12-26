@@ -1,0 +1,54 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="greenGradientDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#198754;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2daa6a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Dark background -->
+  <rect width="512" height="512" fill="#1a1a1a" rx="96"/>
+  
+  <!-- River flow (brighter for dark theme) -->
+  <path d="M 70 420 Q 170 400, 256 420 T 442 420" 
+        stroke="#198754" 
+        stroke-width="8" 
+        fill="none" 
+        stroke-linecap="round"
+        opacity="0.35"/>
+  
+  <!-- Abstract minimalist city skyline -->
+  <rect x="120" y="280" width="36" height="100" rx="3" fill="#198754" opacity="0.4"/>
+  <rect x="172" y="260" width="32" height="120" rx="3" fill="#198754" opacity="0.4"/>
+  <rect x="220" y="250" width="28" height="130" rx="3" fill="#198754" opacity="0.4"/>
+  <rect x="264" y="255" width="28" height="125" rx="3" fill="#198754" opacity="0.4"/>
+  <rect x="308" y="270" width="32" height="110" rx="3" fill="#198754" opacity="0.4"/>
+  <rect x="356" y="285" width="36" height="95" rx="3" fill="#198754" opacity="0.4"/>
+  
+  <!-- Minimalist bridge arch (main focal point) -->
+  <path d="M 120 420 Q 256 280, 392 420" 
+        stroke="#198754" 
+        stroke-width="18" 
+        fill="none" 
+        stroke-linecap="round"
+        opacity="0.95"/>
+  
+  <!-- Bridge platform -->
+  <line x1="120" y1="420" x2="392" y2="420" 
+        stroke="#198754" 
+        stroke-width="8" 
+        stroke-linecap="round"/>
+  
+  <!-- Bridge support pillars (minimal) -->
+  <line x1="200" y1="380" x2="200" y2="420" stroke="#198754" stroke-width="10" stroke-linecap="round" opacity="0.85"/>
+  <line x1="256" y1="360" x2="256" y2="420" stroke="#198754" stroke-width="10" stroke-linecap="round" opacity="0.85"/>
+  <line x1="312" y1="380" x2="312" y2="420" stroke="#198754" stroke-width="10" stroke-linecap="round" opacity="0.85"/>
+  
+  <!-- Subtle water reflection -->
+  <path d="M 70 430 Q 170 450, 256 430 T 442 430" 
+        stroke="#198754" 
+        stroke-width="6" 
+        fill="none" 
+        stroke-linecap="round"
+        opacity="0.25"/>
+</svg>

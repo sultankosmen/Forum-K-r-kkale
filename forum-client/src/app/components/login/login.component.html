@@ -1,0 +1,62 @@
+<div class="login-container">
+  <div class="login-card">
+    <h1 class="login-title">Giriş Yap</h1>
+    <p class="login-subtitle">Forum Kırıkkale'ye hoş geldiniz</p>
+
+    @if (error) {
+      <div class="alert alert-danger" role="alert" [attr.aria-live]="'polite'">
+        {{ error }}
+      </div>
+    }
+
+    <form (ngSubmit)="onSubmit()" [attr.aria-label]="'Giriş formu'">
+      <div class="mb-3">
+        <label for="username" class="form-label">Kullanıcı Adı</label>
+        <input 
+          type="text" 
+          class="form-control" 
+          id="username"
+          [(ngModel)]="credentials.username"
+          name="username"
+          required
+          autocomplete="username"
+          [attr.aria-required]="true"
+          aria-describedby="username-help">
+        <small id="username-help" class="form-text text-muted">
+          Demo: username: "demo", password: "demo123"
+        </small>
+      </div>
+
+      <div class="mb-3">
+        <label for="password" class="form-label">Şifre</label>
+        <input 
+          type="password" 
+          class="form-control" 
+          id="password"
+          [(ngModel)]="credentials.password"
+          name="password"
+          required
+          autocomplete="current-password"
+          [attr.aria-required]="true">
+      </div>
+
+      <button 
+        type="submit" 
+        class="btn btn-primary w-100"
+        [disabled]="loading">
+        @if (loading) {
+          <span class="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span>
+        }
+        Giriş Yap
+      </button>
+    </form>
+
+    <div class="login-footer mt-4 text-center">
+      <p class="text-muted mb-0">
+        Hesabınız yok mu? 
+        <a routerLink="/register" class="text-primary">Kayıt olun</a>
+      </p>
+    </div>
+  </div>
+</div>
+

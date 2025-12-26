@@ -1,0 +1,28 @@
+@if (loading) {
+  <div class="text-center py-3">
+    <div class="spinner-border spinner-border-sm text-primary" role="status" aria-label="Yükleniyor">
+      <span class="visually-hidden">Yükleniyor...</span>
+    </div>
+  </div>
+} @else {
+  <ul class="topic-list" role="list">
+    @for (topic of topics; track topic.id) {
+      <li class="topic-item" role="listitem">
+        <a 
+          [routerLink]="['/topic', topic.id]" 
+          class="topic-link"
+          [attr.aria-label]="topic.title + ' konusuna git'">
+          <div class="topic-title">{{ topic.title }}</div>
+          <div class="topic-meta">
+            <span class="entry-count">{{ topic.entryCount }} entry</span>
+            <span class="separator">•</span>
+            <span class="date">{{ formatDate(topic.lastEntryDate) }}</span>
+          </div>
+        </a>
+      </li>
+    } @empty {
+      <li class="text-muted text-center py-3">Henüz konu yok</li>
+    }
+  </ul>
+}
+

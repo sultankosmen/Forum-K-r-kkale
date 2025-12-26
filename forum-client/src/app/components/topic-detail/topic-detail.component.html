@@ -1,0 +1,105 @@
+@if (loading) {
+  <div class="text-center py-5">
+    <div class="spinner-border text-primary" role="status" aria-label="Yükleniyor">
+      <span class="visually-hidden">Yükleniyor...</span>
+    </div>
+  </div>
+} @else if (topic) {
+  <div class="topic-detail-container">
+    <!-- Topic Header -->
+    <header class="topic-header">
+      <h1 class="topic-title">{{ topic.title }}</h1>
+      <div class="topic-meta">
+        <span class="meta-item">
+          <strong>{{ topic.entryCount }}</strong> entry
+        </span>
+        <span class="meta-separator">•</span>
+        <span class="meta-item">
+          Açan: <strong>{{ topic.author }}</strong>
+        </span>
+        <span class="meta-separator">•</span>
+        <span class="meta-item">
+          Son entry: {{ formatDate(topic.lastEntryDate) }}
+        </span>
+      </div>
+    </header>
+
+    <!-- New Entry Form -->
+    @if (authService.isAuthenticated()) {
+      <section class="new-entry-section" aria-label="Yeni entry ekle">
+        <h3 class="section-title">Yeni Entry Ekle</h3>
+        <form (ngSubmit)="submitEntry()">
+          <div class="mb-3">
+            <textarea 
+              class="form-control" 
+              rows="4" 
+              placeholder="Entry'nizi yazın..."
+              [(ngModel)]="newEntryContent"
+              name="newEntryContent"
+              [disabled]="submitting"
+              required></textarea>
+          </div>
+          <button 
+            type="submit" 
+            class="btn btn-primary"
+            [disabled]="submitting || !newEntryContent.trim()">
+            @if (submitting) {
+              <span class="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span>
+            }
+            Entry Ekle
+          </button>
+        </form>
+      </section>
+    } @else {
+      <div class="alert alert-info" role="alert">
+        Entry eklemek için <a routerLink="/login" class="alert-link">giriş yapın</a> veya <a routerLink="/register" class="alert-link">kayıt olun</a>.
+      </div>
+    }
+
+    <!-- Entries List -->
+    <section class="entries-section" aria-label="Entryler">
+      <h2 class="section-title">Entryler ({{ topic.entries.length }})</h2>
+      
+      @if (topic.entries.length > 0) {
+        <div class="entries-list">
+          @for (entry of topic.entries; track entry.id) {
+            <article class="entry-card" [attr.aria-labelledby]="'entry-' + entry.id">
+              <div class="entry-header">
+                <div class="entry-author">
+                  <strong>{{ entry.author }}</strong>
+                </div>
+                <div class="entry-date">
+                  {{ formatDate(entry.createdAt) }}
+                </div>
+              </div>
+              <div class="entry-content" [id]="'entry-' + entry.id">
+                <p>{{ entry.content }}</p>
+              </div>
+              <div class="entry-footer">
+                <button 
+                  class="btn btn-sm btn-outline-primary"
+                  (click)="toggleFavorite(entry)"
+                  [class.active]="entry.isFavorite"
+                  [disabled]="!authService.isAuthenticated()"
+                  [attr.aria-label]="entry.isFavorite ? 'Favorilerden çıkar' : 'Favorilere ekle'">
+                  ♥ {{ entry.favoriteCount }}
+                </button>
+              </div>
+            </article>
+          }
+        </div>
+      } @else {
+        <div class="empty-state text-center py-5">
+          <p class="text-muted">Henüz entry yok. İlk entry'yi siz yazın!</p>
+        </div>
+      }
+    </section>
+  </div>
+} @else {
+  <div class="error-state text-center py-5">
+    <h2>Konu bulunamadı</h2>
+    <p class="text-muted">Aradığınız konu mevcut değil veya silinmiş olabilir.</p>
+    <a routerLink="/" class="btn btn-primary mt-3">Ana Sayfaya Dön</a>
+  </div>
+}
+

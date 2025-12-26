@@ -1,0 +1,73 @@
+<div class="home-container">
+  <div class="d-flex justify-content-between align-items-center mb-4">
+    <h1 class="page-title">Konular</h1>
+  </div>
+
+  <!-- Search Bar -->
+  <div class="search-section mb-4">
+    <form (ngSubmit)="onSearch()" role="search">
+      <div class="input-group">
+        <input 
+          type="text" 
+          class="form-control" 
+          placeholder="Konu ara..." 
+          aria-label="Konu ara"
+          [(ngModel)]="searchQuery"
+          name="searchQuery">
+        <button class="btn btn-primary" type="submit">Ara</button>
+      </div>
+    </form>
+  </div>
+
+  <!-- Topics List -->
+  @if (loading) {
+    <div class="text-center py-5">
+      <div class="spinner-border text-primary" role="status" aria-label="Yükleniyor">
+        <span class="visually-hidden">Yükleniyor...</span>
+      </div>
+    </div>
+  } @else {
+    @if (topics.length > 0) {
+      <div class="topics-list">
+        @for (topic of topics; track topic.id) {
+          <article class="topic-card" [attr.aria-labelledby]="'topic-' + topic.id">
+            <div class="topic-header">
+              <h2 class="topic-title" [id]="'topic-' + topic.id">
+                <a [routerLink]="['/topic', topic.id]" class="topic-link">
+                  {{ topic.title }}
+                </a>
+              </h2>
+            </div>
+            <div class="topic-meta">
+              <span class="meta-item">
+                <strong>{{ topic.entryCount }}</strong> entry
+              </span>
+              <span class="meta-separator">•</span>
+              <span class="meta-item">
+                Son entry: {{ formatDate(topic.lastEntryDate) }}
+              </span>
+              <span class="meta-separator">•</span>
+              <span class="meta-item">
+                Açan: <strong>{{ topic.author }}</strong>
+              </span>
+            </div>
+            <div class="topic-footer">
+              <a 
+                [routerLink]="['/topic', topic.id]" 
+                class="btn btn-sm btn-outline-primary"
+                [attr.aria-label]="topic.title + ' konusunu görüntüle'">
+                Konuya Git →
+              </a>
+            </div>
+          </article>
+        }
+      </div>
+    } @else {
+      <div class="empty-state text-center py-5">
+        <p class="text-muted">Henüz konu bulunmamaktadır.</p>
+        <a routerLink="/" class="btn btn-primary mt-3">Tüm Konuları Görüntüle</a>
+      </div>
+    }
+  }
+</div>
+

@@ -1,0 +1,102 @@
+<header class="forum-header">
+  <nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom">
+    <div class="container-fluid">
+      <a class="navbar-brand fw-bold text-primary" routerLink="/" aria-label="Forum Kırıkkale Ana Sayfa">
+        Forum Kırıkkale
+      </a>
+      
+      <button 
+        class="navbar-toggler" 
+        type="button" 
+        (click)="toggleMobileMenu()"
+        [attr.aria-expanded]="isMobileMenuOpen"
+        aria-label="Menüyü aç/kapat"
+        aria-controls="mobileMenu">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" [class.show]="isMobileMenuOpen" id="mobileMenu">
+        <div class="d-flex flex-column flex-lg-row w-100 gap-2 gap-lg-3">
+          <!-- Search -->
+          <form class="d-flex flex-grow-1" (ngSubmit)="onSearch()" role="search">
+            <input 
+              class="form-control me-2" 
+              type="search" 
+              placeholder="Konu ara..." 
+              aria-label="Konu ara"
+              [(ngModel)]="searchQuery"
+              name="search">
+            <button class="btn btn-outline-primary" type="submit">Ara</button>
+          </form>
+
+          <!-- Auth Buttons -->
+          <div class="d-flex gap-2">
+            @if (authService.isAuthenticated()) {
+              <div class="d-flex align-items-center gap-2">
+                <span class="text-muted">Merhaba, {{ authService.user()?.username }}</span>
+                <button class="btn btn-outline-danger btn-sm" (click)="logout()" aria-label="Çıkış yap">
+                  Çıkış
+                </button>
+              </div>
+            } @else {
+              <a routerLink="/login" class="btn btn-outline-primary" aria-label="Giriş yap">
+                Giriş
+              </a>
+              <a routerLink="/register" class="btn btn-primary" aria-label="Kayıt ol">
+                Kayıt Ol
+              </a>
+            }
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<main class="forum-main">
+  <div class="container-fluid">
+    <div class="row g-3">
+      <!-- Left Sidebar - Gündem -->
+      <aside class="col-lg-3 order-lg-1 order-2" aria-label="Gündem">
+        <div class="sidebar-card">
+          <h5 class="sidebar-title">Gündem</h5>
+          <app-left-sidebar></app-left-sidebar>
+        </div>
+      </aside>
+
+      <!-- Main Content -->
+      <div class="col-lg-6 order-lg-2 order-1">
+        <router-outlet></router-outlet>
+      </div>
+
+      <!-- Right Sidebar - Popüler & Reklam -->
+      <aside class="col-lg-3 order-lg-3 order-3" aria-label="Popüler ve reklamlar">
+        <div class="sidebar-card mb-3">
+          <h5 class="sidebar-title">Popüler Konular</h5>
+          <app-right-sidebar></app-right-sidebar>
+        </div>
+        <div class="sidebar-card">
+          <h5 class="sidebar-title">Reklam</h5>
+          <div class="ad-placeholder">
+            <p class="text-muted text-center p-3">Reklam Alanı</p>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+</main>
+
+<footer class="forum-footer mt-5 py-4 border-top">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h6 class="fw-bold">Forum Kırıkkale</h6>
+        <p class="text-muted small">Kırıkkale'nin dijital sözlüğü</p>
+      </div>
+      <div class="col-md-6 text-md-end">
+        <p class="text-muted small mb-0">&copy; 2025 Forum Kırıkkale. Tüm hakları saklıdır.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
